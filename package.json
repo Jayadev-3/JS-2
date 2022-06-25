@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mongodb": "^4.7.0"
+    "mongodb": "^4.7.0",
+    "promise": "^8.1.0"
   }
 }
